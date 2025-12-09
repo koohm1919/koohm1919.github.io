@@ -3,6 +3,7 @@ title: CV
 ---
 # Education
 2019-2025   Ph.D, University of Seoul
+
 2013-2019   B.S, University of Seoul
 
 # Presentations
