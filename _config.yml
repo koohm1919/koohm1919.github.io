@@ -7,6 +7,6 @@ description: "My personal academic website."
 # --- 네비게이션 메뉴 설정 ---
 header_pages:
   - about.md
-  - cv.md
   - research.md
   - publication.md
+  - cv.md
