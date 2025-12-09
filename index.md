@@ -8,4 +8,3 @@ title: Welcome!
 [<img src="/assets/icons/email.png" width="28">](mailto:mike1919@naver.com)
 
 ![Hyeonmo Koo at COSPA2025](/프로필.jpg)
-PhD in Physics, focusing on ultralight dark matter, dynamical friction, and galaxy dynamics.
