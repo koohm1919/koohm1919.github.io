@@ -1,2 +1,4 @@
-# CV
+---
+title: CV
+---
 To be uploaded
