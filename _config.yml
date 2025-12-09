@@ -1,9 +1,15 @@
-title: "Hyeonmo Koo"
-description: "PhD in Physics – Ultralight Dark Matter, Dynamical Friction, Galaxy Dynamics"
-theme: minima
+title: Hyeonmo Koo
+theme: jekyll-theme-cayman
 
-# 여기가 메뉴에 들어갈 페이지 목록입니다.
-header_pages:
-  - research.md
-  - publications.md
-  - cv.md
+collections:
+  pages:
+
+nav:
+  - name: Home
+    link: /
+  - name: About
+    link: /about
+  - name: Research
+    link: /research
+  - name: CV
+    link: /cv
