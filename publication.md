@@ -1,6 +1,9 @@
 ---
 title: Publication
 ---
+[<img src="/images/researchgate.png" width="28">](https://www.researchgate.net/profile/Hyeonmo-Koo)
+[<img src="/images/inspirehep.png" width="28">](https://inspirehep.net/authors/2916081)
+
 
 ### 2025
 **Hyeonmo Koo** and Jae-Weon Lee, *Dynamical friction for circular orbits in self-interacting ultralight dark matter and Fornax globular clusters*, JCAP XX, XXX (2025) [arXiv:2504.19219](https://arxiv.org/abs/2504.19219)
