@@ -18,6 +18,18 @@ title: CV
       <i>Astrophysics of (Self-Interacting) Ultralight Dark Matter</i>
     </div>
   </div>
+  <div class="talk-row">
+    <div class="talk-date">Jul 2025</div>
+    <div class="talk-icon">🔖</div>
+    <div class="talk-text">
+      <b>IBS CTPU-CGA Summer School and Workshop for High Energy Physics and Cosmology 2025</b>,
+      <i>Ultralight dark matter and its dynamical friction</i>
+    </div>
+    <div class="talk-text">
+      <b>International Symposium on Cosmology and Particle Astrophysics: CosPA 2025</b>,
+      <i>Dynamical friction for circular orbits in self-interacting ultralight dark matter and Fornax globular clusters</i>
+    </div>
+  </div>
 </div>
 
 ## Poster Presentations
