@@ -1,15 +1,11 @@
+theme: minima
+
 title: Hyeonmo Koo
-theme: jekyll-theme-cayman
+author: Hyeonmo
+description: "My personal academic website."
 
-collections:
-  pages:
-
-nav:
-  - name: Home
-    link: /
-  - name: About
-    link: /about
-  - name: Research
-    link: /research
-  - name: CV
-    link: /cv
+# --- 네비게이션 메뉴 설정 ---
+header_pages:
+  - about.md
+  - cv.md
+  - research.md
