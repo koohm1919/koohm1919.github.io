@@ -1,8 +1,8 @@
 ---
 title: Publication
 ---
-[<img src="/images/researchgate.png" width="28">](https://www.researchgate.net/profile/Hyeonmo-Koo)
-[<img src="/images/inspirehep.png" width="28">](https://inspirehep.net/authors/2916081)
+[<img src="/images/researchgate.png" width="280">](https://www.researchgate.net/profile/Hyeonmo-Koo)
+[<img src="/images/inspirehep.png" width="280">](https://inspirehep.net/authors/2916081)
 
 
 ### 2025
