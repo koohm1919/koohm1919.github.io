@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "About Mw"
+title: "About Me"
 permalink: /about/
 ---
-
-
 
 <div class="about-container">
 
@@ -119,7 +117,6 @@ permalink: /about/
 
 .talk-row {
   display: grid;
-  grid-template-columns: 6rem 1.5rem auto; /* 날짜 / 아이콘 / 내용 */
   column-gap: 0.6rem;
   margin-bottom: 0.25rem;
 }
