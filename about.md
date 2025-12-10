@@ -29,7 +29,6 @@ permalink: /about/
 
     [2013 - 2019] **B.S.**, University of Seoul
       <!-- 필요하면 더 추가 -->
-    </ul>
     <div class="about-section-title">Research Interests</div>
     <ul class="about-list">
       <li>
