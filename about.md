@@ -25,10 +25,9 @@ permalink: /about/
   <!-- 오른쪽: 경력 / 학력 / 연구분야 -->
   <div class="about-right">
     <div class="about-section-title">Educations</div>
-    [2019 - 2025] **Ph.D.**, University of Seoul
-
-    [2013 - 2019] **B.S.**, University of Seoul
-      <!-- 필요하면 더 추가 -->
+    [2019 - 2025] **Ph.D.**, University of Seoul<br>
+    [2013 - 2019] **B.S.**, University of Seoul<br><br>
+        <!-- 필요하면 더 추가 -->
     <div class="about-section-title">Research Interests</div>
     <ul class="about-list">
       <li>
