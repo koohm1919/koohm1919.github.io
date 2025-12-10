@@ -2,7 +2,7 @@
 title: Publications
 ---
 [<img src="/images/researchgate.png" height="28">](https://www.researchgate.net/profile/Hyeonmo-Koo)
-[<img src="/images/inspirehep.png" height="28">](https://inspirehep.net/authors/2916081)
+[<img src="/images/inspirehepDV.png" height="28">](https://inspirehep.net/authors/2916081)
 
 
 ### 2025
