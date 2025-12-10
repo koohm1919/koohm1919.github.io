@@ -50,7 +50,7 @@ title: CV
     </div>
   </div>
   <div class="talk-row">
-    <div class="talk-date">Oct 2024</div>
+    <div class="talk-date">Aug 2024</div>
     <div class="talk-icon">🔖</div>
     <div class="talk-text">
       <b>Internal Workshop for Yonsei Observable UNiverse Group (YOUNG)</b>,
