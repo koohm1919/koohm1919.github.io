@@ -67,7 +67,7 @@ permalink: /about/
   <!-- 왼쪽: 사진 + 연락처 -->
   <div class="about-left">
     <!-- 프로필 사진 경로만 바꿔 주세요 -->
-    <img src="/assets/profile.jpg" alt="Hyeonmo Koo">
+    <img src="/images/profile.jpg" alt="Hyeonmo Koo">
 
     <div class="about-name">
       Hyeonmo Koo
