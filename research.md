@@ -1,7 +1,9 @@
 ---
 title: Research
 ---
-# Research achievements
+# Area
+
+# Achievements
 
 ### Wave nature-induced relaxation & DM cores
 
