@@ -108,7 +108,7 @@ title: CV
     <div class="talk-date">Nov 2024</div>
     <div class="talk-icon">🔖</div>
     <div class="talk-text">
-      <b>2024 Korean Society of High Energy Physics (KSHEP) Fall Meeting</b>,
+      <b>Korean Society of High Energy Physics (KSHEP) Fall Meeting 2024</b>,
       <i>Dynamical Friction on Circular Orbit in Self-Interacting Ultra-Light Dark Matter and Fornax Globular Clusters</i>
     </div>
   </div>
@@ -116,7 +116,7 @@ title: CV
     <div class="talk-date">Oct 2024</div>
     <div class="talk-icon">🔖</div>
     <div class="talk-text">
-      <b>2024 Korean Astronomical Society (KAS) Fall Meeting</b>,
+      <b>Korean Astronomical Society (KAS) Fall Meeting 2024</b>,
       <i>Dynamical Friction Coefficients in Self-Interacting Ultra-Light Dark Matter</i>
     </div>
   </div>
@@ -124,7 +124,7 @@ title: CV
     <div class="talk-date">Oct 2023</div>
     <div class="talk-icon">🔖</div>
     <div class="talk-text">
-      <b>2023 Korean Astronomical Society (KAS) Fall Meeting</b>,
+      <b>Korean Astronomical Society (KAS) Fall Meeting 2023</b>,
       <i>Final parsec problem of black hole mergers and ultralight dark matter</i>
     </div>
   </div>
@@ -132,7 +132,7 @@ title: CV
     <div class="talk-date">Apr 2022</div>
     <div class="talk-icon">🔖</div>
     <div class="talk-text">
-      <b>2022 Korean Astronomical Society (KAS) Fall Meeting</b>,
+      <b>Korean Astronomical Society (KAS) Fall Meeting 2022</b>,
       <i>Head-on Collision of Fuzzy/Cold Dark Matter Halos</i>
     </div>
   </div>
