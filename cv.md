@@ -138,7 +138,7 @@ title: CV
   </div>
 </div>
 
-### Participated Schools
+# Participated Schools (During Education)
 <div class="talk-list">
   <div class="talk-row">
     <div class="talk-date">Jul 2025</div>
