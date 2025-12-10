@@ -37,14 +37,10 @@ permalink: /about/
     <div class="about-section-title">Research Interests</div>
     <ul class="about-list">
       <li>
-        <div class="talk-date">General</div>
-        <div class="talk-icon">🔖</div>
-        <div class="talk-text">Black Hole, Cosmology, Dark Matter, Gravitational Waves</div>
+        <b>General</b> : Black Hole, Cosmology, Dark Matter, Gravitational Waves
       </li>
       <li>
-        <div class="talk-date">Specific</div>
-        <div class="talk-icon">🔖</div>
-        <div class="talk-text">Ultralight Scalar Field Dark Matter, Black Hole Superradiance, Cosmological Perturbation Theory, Galactic Dynamics, Stochastic Gravitational Wave Background (First-Order Phase Transition, Inflation, Supermassive Black Hole Binary...), Preheating, CMB</div>
+        <b>Specific</b> : Ultralight Scalar Field Dark Matter, Black Hole Superradiance, Cosmological Perturbation Theory, Galactic Dynamics, Stochastic Gravitational Wave Background (First-Order Phase Transition, Inflation, Supermassive Black Hole Binary...), Preheating, CMB
       </li>
       <!-- 필요하면 더 추가 -->
     </ul>
