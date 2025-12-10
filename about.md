@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "About Mw"
 permalink: /about/
 ---
 
@@ -12,52 +12,46 @@ permalink: /about/
   <div class="about-left">
     <!-- 프로필 사진 경로만 바꿔 주세요 -->
     <img src="/images/Profile.jpg" alt="Hyeonmo Koo">
-
     <div class="about-name">
       Hyeonmo Koo
     </div>
-
     <div class="about-contact">
       Ph.D. Candidate in Physics<br>
-      [Department of Physics, Your University]<br><br>
-
-      Email: <a href="mailto:[your_email]">[your_email]</a><br>
-      GitHub: <a href="https://github.com/koohm1919" target="_blank">koohm1919</a><br>
+      [Department of Physics, University of Seoul]<br><br>
+      Email: <a href="mailto:[mike1919@naver.com]">[mike1919@naver.com]</a><br>
+      <GitHub: <a href="https://github.com/koohm1919" target="_blank">koohm1919</a><br>>
       <!-- 필요 없으면 아래 줄은 지우세요 -->
-      Research Profiles: <a href="[arxiv_or_inspire_link]" target="_blank">arXiv / INSPIRE</a>
     </div>
   </div>
 
   <!-- 오른쪽: 경력 / 학력 / 연구분야 -->
   <div class="about-right">
-    <div class="about-section-title">Academic Affiliations</div>
+    <div class="about-section-title">Educations</div>
     <ul class="about-list">
       <li>
-        [20XX – present] <b>Ph.D. Candidate</b>, Department of Physics, [Your University]
+        <div class="talk-date">[2019 - 2025]</div>
+        <div class="talk-icon">🔖</div>
+        <div class="talk-text"><b>Ph.D.</b>, University of Seoul</div>
       </li>
       <li>
-        [20XX – 20XX] <b>Research Assistant</b>, [Group or Institute], [Location]
+        <div class="talk-date">[2013 - 2019]</div>
+        <div class="talk-icon">🔖</div>
+        <div class="talk-text"><b>B.S.</b>, University of Seoul</div>
       </li>
       <!-- 필요하면 더 추가 -->
     </ul>
-
-    <div class="about-section-title">Education</div>
-    <ul class="about-list">
-      <li>
-        [Expected Feb. 20XX] <b>Ph.D.</b> in Physics, [Your University]
-      </li>
-      <li>
-        [Year] <b>B.S.</b> in Physics, [Your University]
-      </li>
-    </ul>
-
     <div class="about-section-title">Research Interests</div>
     <ul class="about-list">
-      <li>Ultralight / fuzzy dark matter and self-interacting ULDM</li>
-      <li>Dynamical friction in wave-like dark matter halos</li>
-      <li>Supermassive black hole binaries and the final-parsec problem</li>
-      <li>Head-on collisions and dynamics of dark matter subhalos</li>
-      <li>Astrophysical and cosmological probes of dark matter microphysics</li>
+      <li>
+        <div class="talk-date">General</div>
+        <div class="talk-icon">🔖</div>
+        <div class="talk-text">Black Hole, Cosmology, Dark Matter, Gravitational Waves</div>
+      </li>
+      <li>
+        <div class="talk-date">Specific</div>
+        <div class="talk-icon">🔖</div>
+        <div class="talk-text">Ultralight Scalar Field Dark Matter, Black Hole Superradiance, Cosmological Perturbation Theory, Galactic Dynamics, Stochastic Gravitational Wave Background (First-Order Phase Transition, Inflation, Supermassive Black Hole Binary...), Preheating, CMB</div>
+      </li>
     </ul>
   </div>
 
@@ -118,4 +112,29 @@ permalink: /about/
 .about-list li {
   margin-bottom: 0.25rem;
 }
+
+.talk-list {
+  max-width: 900px;
+}
+
+.talk-row {
+  display: grid;
+  grid-template-columns: 6rem 1.5rem auto; /* 날짜 / 아이콘 / 내용 */
+  column-gap: 0.6rem;
+  margin-bottom: 0.25rem;
+}
+
+.talk-date {
+  font-style: italic;
+  white-space: nowrap;
+}
+
+.talk-icon {
+  text-align: center;
+}
+
+.talk-text {
+  line-height: 1.3;
+}
+
 </style>
