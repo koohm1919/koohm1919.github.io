@@ -25,9 +25,15 @@ permalink: /about/
   <!-- 오른쪽: 경력 / 학력 / 연구분야 -->
   <div class="about-right">
     <div class="about-section-title">Educations</div>
-    [2019 - 2025] **Ph.D.**, University of Seoul<br>
-    [2013 - 2019] **B.S.**, University of Seoul<br><br>
-        <!-- 필요하면 더 추가 -->
+    <ul class="about-list">
+      <li>
+        [2019 – present] <b>Ph.D.</b>, University of Seoul
+      </li>
+      <li>
+        [2013 – 2019] <b>B.S.</b>, University of Seoul
+      </li>
+      <!-- 필요하면 더 추가 -->
+    </ul>
     <div class="about-section-title">Research Interests</div>
     <ul class="about-list">
       <li>
@@ -40,6 +46,7 @@ permalink: /about/
         <div class="talk-icon">🔖</div>
         <div class="talk-text">Ultralight Scalar Field Dark Matter, Black Hole Superradiance, Cosmological Perturbation Theory, Galactic Dynamics, Stochastic Gravitational Wave Background (First-Order Phase Transition, Inflation, Supermassive Black Hole Binary...), Preheating, CMB</div>
       </li>
+      <!-- 필요하면 더 추가 -->
     </ul>
   </div>
 
