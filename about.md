@@ -14,8 +14,6 @@ permalink: /about/
       Hyeonmo Koo
     </div>
     <div class="about-contact">
-      Ph.D. Candidate in Physics<br>
-      [Department of Physics, University of Seoul]<br><br>
       Email: <a href="mailto:[mike1919@naver.com]">[mike1919@naver.com]</a><br>
       <GitHub: <a href="https://github.com/koohm1919" target="_blank">koohm1919</a><br>>
       <!-- 필요 없으면 아래 줄은 지우세요 -->
