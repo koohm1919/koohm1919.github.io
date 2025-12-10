@@ -15,7 +15,7 @@ permalink: /about/
     </div>
     <div class="about-contact">
       Email: <a href="mailto:[mike1919@naver.com]">[mike1919@naver.com]</a><br>
-      <GitHub: <a href="https://github.com/koohm1919" target="_blank">koohm1919</a><br>>
+      <GitHub: <a href="https://github.com/koohm1919" target="_blank">koohm1919</a>><br>
       <!-- 필요 없으면 아래 줄은 지우세요 -->
     </div>
   </div>
