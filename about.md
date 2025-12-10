@@ -14,7 +14,7 @@ permalink: /about/
       Hyeonmo Koo
     </div>
     <div class="about-contact">
-      Email: <a href="mailto:[mike1919@naver.com]">[mike1919@naver.com]</a><br>
+      Email: mike1919 At naver dot com<br>
       <!-- 필요 없으면 아래 줄은 지우세요 -->
     </div>
   </div>
