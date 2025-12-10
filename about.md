@@ -4,63 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-<style>
-.about-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2rem;
-  align-items: flex-start;
-}
 
-.about-left {
-  flex: 0 0 220px;
-  text-align: center;
-}
-
-.about-left img {
-  width: 100%;
-  max-width: 220px;
-  border-radius: 4px;
-}
-
-.about-name {
-  font-weight: 700;
-  margin-top: 0.8rem;
-}
-
-.about-contact {
-  font-size: 0.9rem;
-  line-height: 1.4;
-  margin-top: 0.5rem;
-}
-
-.about-contact a {
-  text-decoration: none;
-}
-
-.about-right {
-  flex: 1 1 260px;
-  min-width: 260px;
-}
-
-.about-section-title {
-  font-weight: 700;
-  margin-top: 0.5rem;
-  margin-bottom: 0.4rem;
-  font-size: 1.05rem;
-}
-
-.about-list {
-  list-style-type: square;
-  padding-left: 1.2rem;
-  margin-top: 0.2rem;
-  margin-bottom: 0.8rem;
-}
-
-.about-list li {
-  margin-bottom: 0.25rem;
-}
-</style>
 
 <div class="about-container">
 
@@ -118,3 +62,60 @@ permalink: /about/
   </div>
 
 </div>
+<style>
+.about-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.about-left {
+  flex: 0 0 220px;
+  text-align: center;
+}
+
+.about-left img {
+  width: 100%;
+  max-width: 220px;
+  border-radius: 4px;
+}
+
+.about-name {
+  font-weight: 700;
+  margin-top: 0.8rem;
+}
+
+.about-contact {
+  font-size: 0.9rem;
+  line-height: 1.4;
+  margin-top: 0.5rem;
+}
+
+.about-contact a {
+  text-decoration: none;
+}
+
+.about-right {
+  flex: 1 1 260px;
+  min-width: 260px;
+}
+
+.about-section-title {
+  font-weight: 700;
+  margin-top: 0.5rem;
+  margin-bottom: 0.4rem;
+  font-size: 1.05rem;
+}
+
+.about-list {
+  list-style-type: square;
+  padding-left: 1.2rem;
+  margin-top: 0.2rem;
+  margin-bottom: 0.8rem;
+}
+
+.about-list li {
+  margin-bottom: 0.25rem;
+}
+</style>
