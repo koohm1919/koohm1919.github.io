@@ -138,6 +138,104 @@ title: CV
   </div>
 </div>
 
+### Participated Schools
+<div class="talk-list">
+  <div class="talk-row">
+    <div class="talk-date">Jul 2025</div>
+    <div class="talk-icon">🔖</div>
+    <div class="talk-text">
+      <b>IBS CTPU-PTC</b>,
+      <i>Summer School on Cosmology and Particle Physics </i>
+    </div>
+  </div>
+  <div class="talk-row">
+    <div class="talk-date">Jul 2024</div>
+    <div class="talk-icon">🔖</div>
+    <div class="talk-text">
+      <b>IBS CTPU-PTC</b>,
+      <i>Summer School on Cosmology and Particle Physics </i>
+    </div>
+  </div>
+  <div class="talk-row">
+    <div class="talk-date">Feb 2024</div>
+    <div class="talk-icon">🔖</div>
+    <div class="talk-text">
+      <b>IBS CTPU-CGA</b>,
+      <i>First Winter Camp </i>
+    </div>
+  </div>
+  <div class="talk-row">
+    <div class="talk-date">Jan 2024</div>
+    <div class="talk-icon">🔖</div>
+    <div class="talk-text">
+      <b>KGWG-NIMS-IBS-KASI</b>,
+      <i>Winter School on Numerical Relativity and Gravitational Waves</i>
+    </div>
+  </div>
+  <div class="talk-row">
+    <div class="talk-date">Jul 2023</div>
+    <div class="talk-icon">🔖</div>
+    <div class="talk-text">
+      <b>IBS CTPU-PTC</b>,
+      <i>Summer School on Cosmology and Particle Physics</i>
+    </div>
+    <div class="talk-date"> </div>
+    <div class="talk-icon">🔖</div>
+    <div class="talk-text">
+      <b>KIAS</b>,
+      <i>Summer School on Extragalactic Astronomy and Cosmology</i>
+    </div>
+  </div>
+  <div class="talk-row">
+    <div class="talk-date">Jul 2022</div>
+    <div class="talk-icon">🔖</div>
+    <div class="talk-text">
+      <b>IBS CTPU-PTC</b>,
+      <i>Summer School on Cosmology and Particle Physics</i>
+    </div>
+  </div>
+  <div class="talk-row">
+    <div class="talk-date">Jan 2022</div>
+    <div class="talk-icon">🔖</div>
+    <div class="talk-text">
+      <b>KGWG-NIMS-UNIST-KASI</b>,
+      <i>Winter School on Numerical Relativity and Gravitational Waves</i>
+    </div>
+  </div>
+  <div class="talk-row">
+    <div class="talk-date">Aug 2021</div>
+    <div class="talk-icon">🔖</div>
+    <div class="talk-text">
+      <b>IBS CTPU-PTC</b>,
+      <i>Summer School on Cosmology and Particle Physics</i>
+    </div>
+  </div>
+  <div class="talk-row">
+    <div class="talk-date">Jul 2021</div>
+    <div class="talk-icon">🔖</div>
+    <div class="talk-text">
+      <b>KIAS</b>,
+      <i>Summer School on Extragalactic Astronomy and Cosmology</i>
+    </div>
+  </div>
+  <div class="talk-row">
+    <div class="talk-date">Jul 2019</div>
+    <div class="talk-icon">🔖</div>
+    <div class="talk-text">
+      <b>IBS CTPU-PTC</b>,
+      <i>Summer School on Cosmology and Particle Physics</i>
+    </div>
+  </div>
+  <div class="talk-row">
+    <div class="talk-date">Jun 2019</div>
+    <div class="talk-icon">🔖</div>
+    <div class="talk-text">
+      <b>APCTP-NIMS-KISTI-UNIST-KASI</b>,
+      <i>Summer School on Numerical Relativity and Gravitational Waves</i>
+    </div>
+  </div>
+</div>
+
 <style>
 .talk-list {
   max-width: 900px;
