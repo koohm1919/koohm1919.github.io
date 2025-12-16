@@ -23,5 +23,5 @@ These results directly impact the prediction of GW backgrounds, suggesting that 
 Motivated by tightening constraints on the ULDM particle mass, I extended the framework to include repulsive self-interactions (SI, $$\sim \lambda \phi^4$$) and investigated their impact on galactic scale.
 I derived the analytical DF force for circular orbits within a repulsive SI-ULDM halo.
 By applying this formalism to the Fornax dwarf spheroidal galaxy (dSph), I demonstrated that **a sufficiently strong SI extends the infall timescales of GCs beyond 10 Gyr, thereby resolving the classical ``timing problem''.**
-Crucially, I identified a cosmologically consistent parameter space ($m_\phi/\lambda^{1/4} \sim \mathcal{O}(\mathrm{1~eV})$) that satisfies these local constraints while remaining compatible with large-scale structure bounds.
+Crucially, I identified a cosmologically consistent parameter space ($$m_\phi/\lambda^{1/4} \sim \mathcal{O}(\mathrm{1~eV})$$) that satisfies these local constraints while remaining compatible with large-scale structure bounds.
 This work positions SI-ULDM as a compelling, observationally verifiable alternative to the standard fuzzy DM model.
