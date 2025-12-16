@@ -1,9 +1,7 @@
 ---
 title: Research
 ---
-# Area
-
-# Achievements
+# Ultralight Dark Matter
 
 ### Wave nature-induced relaxation & DM cores
 
