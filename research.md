@@ -10,6 +10,12 @@ I performed comparative simulations of head-on subhalo collisions using a pseudo
 I established that **ULDM subhalos undergo significantly greater kinetic energy dissipation via scalar wave emission compared to their CDM counterparts.**
 These findings offer a novel resolution to the anomalous collisional dynamics observed in galaxy clusters like Abell 520, where DM cores exhibit collisional behavior contradictory to standard collisionless CDM predictions.
 
+<div align="center">
+  <a href="https://youtu.be/YkeWvI7lmAI?si=7zGqrDRFPOr4jufq">
+    <img src="https://img.youtube.com/vi/YkeWvI7lmAI/0.jpg" alt="112.8km/s" style="width:100%; max-width:600px;">
+  </a>
+</div>
+
 ### Resolution of the final parsec problem
 
 Addressing the long-standing final parsec problem of supermassive black hole binary (SMBHB) mergers, we proposed a mechanism driven by the interplay between DF and ULDM wave dynamics.
