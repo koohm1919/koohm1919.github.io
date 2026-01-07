@@ -4,10 +4,10 @@ title: Publications
 [<img src="/images/researchgate.png" height="28">](https://www.researchgate.net/profile/Hyeonmo-Koo)
 [<img src="/images/inspirehepDV.png" height="28">](https://inspirehep.net/authors/2916081)
 
+### 2026
+**Hyeonmo Koo** and Jae-Weon Lee, *Dynamical friction for circular orbits in self-interacting ultralight dark matter and Fornax globular clusters*, [JCAP 01, 020](https://doi.org/10.1088/1475-7516/2026/01/020) [arXiv:2504.19219](https://arxiv.org/abs/2504.19219)
 
 ### 2025
-**Hyeonmo Koo** and Jae-Weon Lee, *Dynamical friction for circular orbits in self-interacting ultralight dark matter and Fornax globular clusters*, JCAP XX, XXX (2025) [arXiv:2504.19219](https://arxiv.org/abs/2504.19219)
-
 **Hyeonmo Koo**, *Head-on collisions of fuzzy/cold dark matter subhalos*, [J. Korean Phys. Soc. 87, 430-440](https://doi.org/10.1007/s40042-025-01420-8) [arXiv:2507.00607](https://arxiv.org/abs/2507.00607)
 
 ### 2024
