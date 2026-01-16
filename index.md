@@ -7,3 +7,4 @@ I'm a Ph.D. student at University of Seoul, interested in various topics of **as
 
 
 ![Hyeonmo Koo at COSPA2025](/images/Thumbnail.png)
+<a href="https://www.researchgate.net/profile/Hyeonmo-Koo">Hyeonmo Koo on ResearchGate</a>
