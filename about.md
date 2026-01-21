@@ -24,10 +24,10 @@ permalink: /about/
     <div class="about-section-title">Educations</div>
     <ul class="about-list">
       <li>
-        [2019 – present] <b>Ph.D.</b>, University of Seoul
+        [2019.09 – 2026.02?] <b>Ph.D.</b>, University of Seoul
       </li>
       <li>
-        [2013 – 2019] <b>B.S.</b>, University of Seoul
+        [2013.03 – 2019.08] <b>B.S.</b>, University of Seoul
       </li>
       <!-- 필요하면 더 추가 -->
     </ul>
