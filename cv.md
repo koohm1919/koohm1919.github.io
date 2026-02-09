@@ -10,7 +10,7 @@ title: CV
     <div class="talk-date">Feb 2026</div>
     <div class="talk-icon">🔖</div>
     <div class="talk-text">
-      <b>Beyond the Standard Model Focus Workshop, Chungang Univ., Seoul, South Korea</b>,
+      <b>CAU Beyond the Standard Model Focus Workshop, Seoul, South Korea</b>,
       <i>Dynamical friction for circular orbits in self-interacting ultralight dark matter and Fornax globular clusters</i>
     </div>
   </div>
