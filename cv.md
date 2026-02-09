@@ -7,6 +7,14 @@ title: CV
 <div class="talk-list">
 
   <div class="talk-row">
+    <div class="talk-date">Feb 2026</div>
+    <div class="talk-icon">🔖</div>
+    <div class="talk-text">
+      <b>Beyond the Standard Model Focus Workshop, Chungang Univ., Seoul, South Korea</b>,
+      <i>Dynamical friction for circular orbits in self-interacting ultralight dark matter and Fornax globular clusters</i>
+    </div>
+  </div>
+  <div class="talk-row">
     <div class="talk-date">Oct 2025</div>
     <div class="talk-icon">🔖</div>
     <div class="talk-text">
