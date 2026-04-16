@@ -24,6 +24,9 @@ permalink: /about/
     <div class="about-section-title">Educations</div>
     <ul class="about-list">
       <li>
+        [2026.04 – Current] <b>Postdoc</b>, IBS, CTPU-PTC
+      </li>
+      <li>
         [2019.09 – 2026.02] <b>Ph.D.</b>, University of Seoul
       </li>
       <li>
