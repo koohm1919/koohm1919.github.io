@@ -7,6 +7,14 @@ title: CV
 <div class="talk-list">
 
   <div class="talk-row">
+    <div class="talk-date">Jul 2026</div>
+    <div class="talk-icon">🔖</div>
+    <div class="talk-text">
+      <b>String theory, Gravity and Cosmology 2026</b>,
+      <i>Dynamical friction for circular orbits in self-interacting ultralight dark matter and Fornax globular clusters</i>
+    </div>
+  </div>
+  <div class="talk-row">
     <div class="talk-date">Feb 2026</div>
     <div class="talk-icon">🔖</div>
     <div class="talk-text">
