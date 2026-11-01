@@ -5,7 +5,14 @@ title: CV
 ### Oral Talks
 
 <div class="talk-list">
-
+  <div class="talk-row">
+    <div class="talk-date">Oct 2026</div>
+    <div class="talk-icon">🔖</div>
+    <div class="talk-text">
+      <b>Korean Physical Society (KPS) Fall Meeting 2026</b>,
+      <i>Dynamical Friction of Comparable-Mass Binaries in Self-Interacting Ultralight Dark Matter: The Role of Asymmetric Cutoffs</i>
+    </div>
+  </div>
   <div class="talk-row">
     <div class="talk-date">Jul 2026</div>
     <div class="talk-icon">🔖</div>
