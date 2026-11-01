@@ -37,10 +37,10 @@ permalink: /about/
     <div class="about-section-title">Research Interests</div>
     <ul class="about-list">
       <li>
-        <b>General</b> : Black Hole, Cosmology, Dark Matter, Gravitational Waves
+        <b>General</b> : Black Hole (BH), Cosmology, Dark Matter, Gravitational Waves
       </li>
       <li>
-        <b>Specific</b> : Ultralight Scalar Field Dark Matter, Black Hole Superradiance, Cosmological Perturbation Theory, Galactic Dynamics, Stochastic Gravitational Wave Background (First-Order Phase Transition, Inflation, Supermassive Black Hole Binary...), Preheating, CMB, Axion
+        <b>Specific</b> : Ultralight Dark Matter (ULDM), First-Order Phase Transition, Numerical Relativity, Higher Order Gravity, Cosmological Perturbation Theory, Galactic Dynamics, BH Binary with Dark Matter, BH Superradiance, Preheating, CMB, Axion
       </li>
       <!-- 필요하면 더 추가 -->
     </ul>
